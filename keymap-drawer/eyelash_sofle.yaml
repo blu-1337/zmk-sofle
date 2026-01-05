@@ -67,10 +67,10 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   layer1:
   - {t: '`', s: '~'}
-  - F1
-  - F2
-  - F3
-  - F4
+  - Ctl+Sft+$$mdi:keyboard-tab$$
+  - Ctl+W
+  - Ctl+Sft+$$mdi:keyboard-tab$$
+  - Alt+F4
   - F5
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F6
